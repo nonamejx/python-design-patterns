@@ -1,7 +1,7 @@
 # python-design-patterns
 A collection of design patterns in Python.
 
-##Creational Design Patterns:
+## Creational Design Patterns:
 
 | Pattern | Description |
 |:-------:| ----------- |
